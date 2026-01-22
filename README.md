@@ -49,4 +49,11 @@ This cleaned dataset can be used to:
 * Build interactive dashboards for insights
 
 ---
+Games_deatils Dataset Source:
+Due to GitHub file size limitations, the raw dataset is hosted externally.
+
+Download Link:
+https://drive.google.com/file/d/1mNjpXDjeXiIu1TWCeAXcSdyKt-GWG3y-/view?usp=sharing
+
+
 
